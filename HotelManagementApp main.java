@@ -246,6 +246,7 @@ public class HotelManagementApp extends Application {
 
     bookedRoomsStage.show();
 }
+    // hello 
 
     private void handleStaffInfoButtonClick() {
 
